@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84" height="81" viewBox="0 0 84 81">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3365" data-name="Rectangle 3365" width="43" height="46" transform="translate(61 567)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_12592" data-name="Group 12592" transform="translate(-61 -567)">
+    <g id="Ellipse_1952" data-name="Ellipse 1952" transform="translate(69 572)" fill="#fff" stroke="#6136c1" stroke-width="3">
+      <circle cx="38" cy="38" r="38" stroke="none"/>
+      <circle cx="38" cy="38" r="36.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_318" data-name="Mask Group 318" clip-path="url(#clip-path)">
+      <g id="Ellipse_1953" data-name="Ellipse 1953" transform="translate(69 572)" fill="#fff" stroke="#d6d6d6" stroke-width="3">
+        <circle cx="38" cy="38" r="38" stroke="none"/>
+        <circle cx="38" cy="38" r="36.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
